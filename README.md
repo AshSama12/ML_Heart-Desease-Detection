@@ -1,2 +1,2 @@
-# ML_Heart-Desease-Detection
+# ML_Heart-Disease-Detection
 Machine learning project 
